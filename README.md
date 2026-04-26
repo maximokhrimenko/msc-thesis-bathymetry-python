@@ -23,7 +23,7 @@ https://www.proquest.com/docview/2154850134
 ## Repository contents
 
 ```text
-Thesis_Bathy_Py.txt
+thesis_Bathy_Py.txt
 ```
 
 This is the original thesis-era Python script used in the bathymetric processing workflow.
